@@ -8,6 +8,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 04 June, 2021 - 11 June, 2021
+
 PHP              16 hrs 47 mins  ████████████░░░░░░░░░░░░░   48.14 % 
 Vue.js           9 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 % 
 JavaScript       5 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
