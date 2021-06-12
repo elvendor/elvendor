@@ -7,6 +7,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvendor&" alt="elvendor" /></p>
 
 <!--START_SECTION:waka-->
+```text
+PHP              16 hrs 47 mins  ████████████░░░░░░░░░░░░░   48.14 % 
+Vue.js           9 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+JavaScript       5 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Blade Template   1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other            46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+```
 <!--END_SECTION:waka-->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvendor&show_icons=true&locale=en" alt="elvendor" /></p>
