@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2021 - 18 June, 2021
+Week: 12 June, 2021 - 19 June, 2021
 
 Other            41 hrs 22 mins  ████████████████░░░░░░░░░   64.37 % 
 Vue.js           9 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 % 
