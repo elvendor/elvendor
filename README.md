@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
+Week: 14 June, 2021 - 21 June, 2021
 
-Other            50 hrs 8 mins   ████████████████████░░░░░   79.86 % 
-PHP              5 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Blade Template   3 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JavaScript       1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Vue.js           1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other            49 hrs 4 mins   ██████████████████▓░░░░░░   75.26 % 
+PHP              8 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Blade Template   5 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Vue.js           1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 
