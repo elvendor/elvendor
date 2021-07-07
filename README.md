@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
-PHP              9 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.67 % 
-Blade Template   6 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.70 % 
-Vue.js           2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-CSS              52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JavaScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+PHP              7 hrs 31 mins   ████████████▒░░░░░░░░░░░░   48.80 % 
+Blade Template   4 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.01 % 
+Vue.js           1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+CSS              52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JavaScript       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 <!--END_SECTION:waka-->
 
