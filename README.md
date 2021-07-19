@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
 PHP              3 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 Blade Template   1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
