@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2021 - 19 August, 2021
+Week: 14 August, 2021 - 20 August, 2021
 
-PHP              8 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   43.27 % 
-Vue.js           6 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.09 % 
-Blade Template   1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-JavaScript       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-JSON             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+PHP              8 hrs 54 mins   ██████████▒░░░░░░░░░░░░░░   41.76 % 
+Vue.js           8 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   40.16 % 
+JavaScript       1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Blade Template   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JSON             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 <!--END_SECTION:waka-->
 
