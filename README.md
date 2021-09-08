@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
 PHP              24 hrs 22 mins  █████████████▓░░░░░░░░░░░   54.91 % 
 Vue.js           9 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 % 
