@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
-PHP              17 hrs 33 mins  ███████████░░░░░░░░░░░░░░   43.88 % 
-Blade Template   12 hrs 15 mins  ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
-JavaScript       7 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
-CSS              1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-SQL              56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+PHP              15 hrs 57 mins  ██████████░░░░░░░░░░░░░░░   39.78 % 
+Blade Template   14 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   36.82 % 
+JavaScript       6 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
+CSS              1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+SQL              56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 <!--END_SECTION:waka-->
 
