@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 25 September, 2021
+Week: 20 September, 2021 - 26 September, 2021
 
 PHP              17 hrs 8 mins   ███████████▓░░░░░░░░░░░░░   47.18 % 
 Blade Template   6 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
