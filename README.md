@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-PHP              19 hrs 46 mins  ██████████████▓░░░░░░░░░░   58.48 % 
-Vue.js           6 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-JavaScript       2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Blade Template   2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Other            49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+PHP              23 hrs 57 mins  ███████████████░░░░░░░░░░   60.17 % 
+Vue.js           8 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
+JavaScript       2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Blade Template   1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other            1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
 
