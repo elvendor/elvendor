@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
+Week: 08 October, 2021 - 14 October, 2021
 
-PHP              32 hrs 17 mins  ██████████████████░░░░░░░   72.65 % 
-Blade Template   4 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Vue.js           4 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Other            1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-JSON             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+PHP              33 hrs 39 mins  ██████████████████░░░░░░░   71.75 % 
+Vue.js           5 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Blade Template   4 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Other            1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+JSON             1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
 
