@@ -29,8 +29,8 @@ Other            1 hr 6 mins     ▓░░░░░░░░░░░░░░�
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/danielme85/laravel-log-to-db/pull/43) in [danielme85/laravel-log-to-db](https://github.com/danielme85/laravel-log-to-db)
-2. 🗣 Commented on [#4](https://github.com/kurdin/console-remote-server/issues/4) in [kurdin/console-remote-server](https://github.com/kurdin/console-remote-server)
+1. ❗️ Opened issue [#65](https://github.com/plank/laravel-metable/issues/65) in [plank/laravel-metable](https://github.com/plank/laravel-metable)
+2. 💪 Opened PR [#43](https://github.com/danielme85/laravel-log-to-db/pull/43) in [danielme85/laravel-log-to-db](https://github.com/danielme85/laravel-log-to-db)
 3. 🗣 Commented on [#4](https://github.com/kurdin/console-remote-server/issues/4) in [kurdin/console-remote-server](https://github.com/kurdin/console-remote-server)
 4. ❗️ Opened issue [#4](https://github.com/kurdin/console-remote-server/issues/4) in [kurdin/console-remote-server](https://github.com/kurdin/console-remote-server)
 <!--END_SECTION:activity-->
