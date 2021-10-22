@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elvendor&label=Profile%20views&color=0e75b6&style=flat" alt="elvendor" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvendor&no-bg=true" alt="elvendor" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=elvendor&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="elvendor" /> </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvendor&" alt="elvendor" /></p>
 
