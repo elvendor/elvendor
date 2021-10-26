@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
 PHP              25 hrs 31 mins  █████████████████░░░░░░░░   67.65 % 
 Vue.js           9 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 % 
