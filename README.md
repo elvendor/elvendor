@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
+Week: 07 November, 2021 - 13 November, 2021
 
 Vue.js           4 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.58 % 
 PHP              1 hr 46 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
