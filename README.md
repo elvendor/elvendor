@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
-Vue.js           6 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   46.02 % 
-JavaScript       4 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
-PHP              1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-TypeScript       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Blade Template   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Vue.js           9 hrs 41 mins   ████████████▒░░░░░░░░░░░░   48.80 % 
+JavaScript       5 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 % 
+PHP              2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+TypeScript       57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Blade Template   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
 
