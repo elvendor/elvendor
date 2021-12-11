@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
-Vue.js           6 hrs 41 mins   ██████████████▒░░░░░░░░░░   57.81 % 
-PHP              2 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Blade Template   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-JavaScript       49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JSON             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Vue.js           6 hrs 41 mins   ██████████████▒░░░░░░░░░░   57.43 % 
+PHP              2 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Blade Template   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JavaScript       49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JSON             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 <!--END_SECTION:waka-->
 
