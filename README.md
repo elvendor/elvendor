@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
 PHP              58 mins         ████████████░░░░░░░░░░░░░   47.48 % 
 Blade Template   24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
