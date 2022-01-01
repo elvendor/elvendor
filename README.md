@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Vue.js           6 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   47.06 % 
 Blade Template   2 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.40 % 
