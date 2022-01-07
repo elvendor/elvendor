@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-PHP              2 hrs 29 mins   ██████████████░░░░░░░░░░░   56.23 % 
-Blade Template   49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Vue.js           39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-JavaScript       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-HTML             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+PHP                        52 mins         ███████████░░░░░░░░░░░░░░   44.58 % 
+Nginx configuration file   24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Vue.js                     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+HTML                       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Other                      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 <!--END_SECTION:waka-->
 
