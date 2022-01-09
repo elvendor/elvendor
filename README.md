@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
 PHP                        1 hr 35 mins    ████████▓░░░░░░░░░░░░░░░░   34.37 % 
 Other                      59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
