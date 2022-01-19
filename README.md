@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
-PHP              14 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.79 % 
-Vue.js           9 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.87 % 
-Blade Template   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON             45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JavaScript       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+PHP              15 hrs 47 mins  █████████████▓░░░░░░░░░░░   54.33 % 
+Vue.js           11 hrs 4 mins   █████████▓░░░░░░░░░░░░░░░   38.13 % 
+Blade Template   1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+JSON             45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JavaScript       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
 
