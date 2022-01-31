@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-PHP              43 hrs 14 mins  ████████████████████▒░░░░   81.32 % 
-Vue.js           3 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Blade Template   2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Docker           1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Bash             42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+PHP              39 hrs 14 mins  ███████████████████▓░░░░░   78.70 % 
+Blade Template   3 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Vue.js           3 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Docker           1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JSON             47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
 
