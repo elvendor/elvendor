@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
 PHP      44 hrs 59 mins  ██████████████████████▒░░   89.37 % 
 Vue.js   1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
