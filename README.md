@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 PHP      42 hrs 27 mins  ██████████████████████░░░   87.79 % 
 JSON     2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
