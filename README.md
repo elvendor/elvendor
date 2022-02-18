@@ -8,15 +8,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 40 hrs 39 mins
+Total: 36 hrs 11 mins
 
-PHP      24 hrs 12 mins  ██████████████▒░░░░░░░░░░   57.51 % 
-Vue.js   6 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-JSON     4 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Docker   2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other    1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+PHP      21 hrs 39 mins  ██████████████▒░░░░░░░░░░   57.98 % 
+Vue.js   6 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+JSON     3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Docker   2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+YAML     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 <!--END_SECTION:waka-->
 
