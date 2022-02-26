@@ -8,13 +8,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
-PHP        28 hrs 6 mins   ██████████████████░░░░░░░   72.59 % 
-Vue.js     5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-JSON       2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Other      1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Markdown   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+PHP          34 hrs 41 mins  ██████████████████▒░░░░░░   72.90 % 
+Vue.js       7 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Other        2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript   48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
 
