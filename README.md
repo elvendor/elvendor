@@ -7,15 +7,15 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvendor&" alt="elvendor" /></p>
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-PHP          34 hrs 41 mins  ██████████████████▒░░░░░░   72.90 % 
-Vue.js       7 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Other        2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-JavaScript   48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+PHP          35 hrs 24 mins  ██████████████████░░░░░░░   72.58 %
+Vue.js       8 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Other        2 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvendor&show_icons=true&locale=en" alt="elvendor" /></p>
