@@ -9,10 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2022 - To: 04 March 2022
+From: 26 February 2022 - To: 05 March 2022
 
-PHP              11 hrs 26 mins  ███████████████░░░░░░░░░░   59.86 %
-Other            2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+PHP              12 hrs 5 mins   ██████████████░░░░░░░░░░░   55.47 %
+JSON             3 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Other            3 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
 ```
 
 <!--END_SECTION:waka-->
