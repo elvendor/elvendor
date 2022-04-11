@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2022 - To: 09 April 2022
+From: 03 April 2022 - To: 10 April 2022
 
-PHP              19 hrs 6 mins   █████████████▓░░░░░░░░░░░   54.94 %
-Vue.js           6 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-JavaScript       4 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-JSON             3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-.env file        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-GitIgnore file   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+PHP              19 hrs 33 mins  █████████████▓░░░░░░░░░░░   55.13 %
+Vue.js           6 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+JavaScript       4 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+JSON             3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Bash             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+.env file        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
