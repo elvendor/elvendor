@@ -40,10 +40,6 @@ JavaScript         15 mins         ▒░░░░░░░░░░░░░░
 
 </details>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/bayram-ali-coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bayram-ali-b2783b84/" height="30" width="40" /></a>
-</p>
 
 
 
