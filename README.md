@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2022 - To: 21 October 2022
-
-PHP        23 mins         ██████████████████████░░░   87.44 %
-JSON       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
