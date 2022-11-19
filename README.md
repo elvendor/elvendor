@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-PHP              1 hr 16 mins    █████████████████▒░░░░░░░   68.98 %
-Markdown         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-JavaScript       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Bash             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Vue.js           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-TypeScript       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+PHP              59 mins         ████████████████░░░░░░░░░   63.34 %
+Markdown         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+JavaScript       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Bash             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Vue.js           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+TypeScript       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
