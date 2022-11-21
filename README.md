@@ -9,14 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 19 November 2022
-
-PHP              49 mins         ██████████████████░░░░░░░   72.01 %
-JavaScript       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Vue.js           5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-TypeScript       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
