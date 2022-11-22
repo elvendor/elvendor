@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 14 November 2022 - To: 21 November 2022
+
+PHP         5 hrs 3 mins    ████████████████████████▓   98.68 %
+JSON        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
