@@ -9,10 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 November 2022 - To: 21 November 2022
+From: 15 November 2022 - To: 22 November 2022
 
-PHP         5 hrs 3 mins    ████████████████████████▓   98.68 %
-JSON        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+PHP         6 hrs 41 mins   ████████████████████████▓   98.38 %
+JSON        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+NEON        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 .env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
