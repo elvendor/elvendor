@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 13 December 2022
+From: 07 December 2022 - To: 14 December 2022
 
-PHP              9 hrs 10 mins   ███████████████████▒░░░░░   76.71 %
-Blade Template   1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-JavaScript       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-HTML             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Vue.js           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+PHP              12 hrs 15 mins  ████████████████████▒░░░░   81.50 %
+Blade Template   1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+JavaScript       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+HTML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JSON             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Vue.js           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
