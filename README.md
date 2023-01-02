@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
+From: 25 December 2022 - To: 01 January 2023
 
-PHP              49 hrs 13 mins  █████████████████████░░░░   83.52 %
-JavaScript       2 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-.env file        1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Vue.js           1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-YAML             1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-JSON             57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+PHP              50 hrs 31 mins  █████████████████████▓░░░   86.31 %
+JavaScript       2 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+.env file        1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+YAML             1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Bash             47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON             47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
