@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
-PHP    5 hrs 20 mins   ████████████████████████▓   98.25 %
-JSON   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+PHP    2 hrs 59 mins   █████████████████████████   99.48 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
