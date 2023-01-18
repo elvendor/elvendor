@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
+From: 10 January 2023 - To: 17 January 2023
 
-YAML       9 mins          ████████████░░░░░░░░░░░░░   47.43 %
-Markdown   5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.47 %
-PHP        4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML       9 mins          ███████████▒░░░░░░░░░░░░░   45.41 %
+Markdown   5 mins          ███████░░░░░░░░░░░░░░░░░░   28.22 %
+PHP        5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
