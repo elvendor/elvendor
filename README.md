@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
 YAML       9 mins          ███████████▒░░░░░░░░░░░░░   45.41 %
 Markdown   5 mins          ███████░░░░░░░░░░░░░░░░░░   28.22 %
