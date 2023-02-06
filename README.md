@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-PHP              21 hrs 37 mins  ██████████████▓░░░░░░░░░░   58.27 %
-Blade Template   12 hrs 19 mins  ████████▒░░░░░░░░░░░░░░░░   33.20 %
-TypeScript       1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Vue.js           55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JSON             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+PHP              15 hrs 12 mins  ████████████████▓░░░░░░░░   67.07 %
+Blade Template   4 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+TypeScript       1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Vue.js           55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JSON             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Markdown         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
