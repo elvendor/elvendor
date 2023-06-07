@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-PHP    58 mins         ███████████████▓░░░░░░░░░   62.82 %
-JSON   34 mins         █████████▒░░░░░░░░░░░░░░░   37.18 %
+PHP    35 mins         ████████████▓░░░░░░░░░░░░   50.55 %
+JSON   34 mins         ████████████▒░░░░░░░░░░░░   49.45 %
 ```
 
 <!--END_SECTION:waka-->
