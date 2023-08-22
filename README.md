@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-PHP                   4 hrs 22 mins   ██████████████████████▒░░   89.90 %
-GDScript              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Vue.js                6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JavaScript            5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+PHP                   5 hrs 26 mins   ██████████████████████▓░░   90.02 %
+JSON                  8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+GDScript              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Vue.js                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
