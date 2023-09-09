@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
 Blade Template   3 hrs 29 mins   ███████████████▓░░░░░░░░░   63.24 %
 PHP              1 hr 30 mins    ███████░░░░░░░░░░░░░░░░░░   27.44 %
