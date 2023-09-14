@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Blade Template   1 hr 3 mins     ██████████████████░░░░░░░   72.00 %
-HTML             24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-CSS              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+HTML   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
