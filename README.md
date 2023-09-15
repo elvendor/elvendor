@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-HTML   24 mins         █████████████████████████   100.00 %
+Vue.js           8 mins          ███████████░░░░░░░░░░░░░░   44.57 %
+Bash             5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+PHP              3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+Blade Template   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
