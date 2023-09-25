@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-YAML   20 mins         ███████████▓░░░░░░░░░░░░░   47.01 %
-PHP    18 mins         ███████████░░░░░░░░░░░░░░   43.99 %
-HTML   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+HTML   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
