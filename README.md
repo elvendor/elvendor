@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Vue.js           31 mins         █████████████████░░░░░░░░   68.66 %
-Blade Template   13 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 %
-JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Blade Template   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
