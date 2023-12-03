@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-XML              49 mins         ███████████████░░░░░░░░░░   60.00 %
-Blade Template   32 mins         ██████████░░░░░░░░░░░░░░░   40.00 %
+XML              49 mins         ███████████████░░░░░░░░░░   60.47 %
+Blade Template   32 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
 ```
 
 <!--END_SECTION:waka-->
