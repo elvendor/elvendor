@@ -9,11 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 28 November 2023 - To: 05 December 2023
 
-XML              49 mins         ██████████████████░░░░░░░   72.25 %
-Blade Template   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Vue.js           7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Blade Template   10 mins         ██████████████▒░░░░░░░░░░   57.87 %
+Vue.js           7 mins          ██████████▓░░░░░░░░░░░░░░   42.13 %
 ```
 
 <!--END_SECTION:waka-->
