@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-HTML             39 mins         █████████████████░░░░░░░░   67.52 %
-Blade Template   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Vue.js           7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+HTML   39 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
