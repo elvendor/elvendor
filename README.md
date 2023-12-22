@@ -9,9 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
-Blade Template   0 secs          █████████████████████████   100.00 %
+Bash             2 mins          ██████████████████▒░░░░░░   73.56 %
+Blade Template   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+JavaScript       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
