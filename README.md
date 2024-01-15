@@ -27,7 +27,7 @@ No activity tracked
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/whitecube/laravel-prices/issues/4) in [whitecube/laravel-prices](https://github.com/whitecube/laravel-prices)
+1. 🎉 Merged PR [#2](https://github.com/elvendor/kalkanporthotel/pull/2) in [elvendor/kalkanporthotel](https://github.com/elvendor/kalkanporthotel)
 2. 💪 Opened PR [#43](https://github.com/danielme85/laravel-log-to-db/pull/43) in [danielme85/laravel-log-to-db](https://github.com/danielme85/laravel-log-to-db)
 3. 🗣 Commented on [#4](https://github.com/kurdin/console-remote-server/issues/4) in [kurdin/console-remote-server](https://github.com/kurdin/console-remote-server)
 4. ❗️ Opened issue [#4](https://github.com/kurdin/console-remote-server/issues/4) in [kurdin/console-remote-server](https://github.com/kurdin/console-remote-server)
