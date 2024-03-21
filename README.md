@@ -9,11 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2024 - To: 19 March 2024
+From: 13 March 2024 - To: 20 March 2024
 
-Smarty   4 hrs 8 mins    ██████████████████████░░░   87.51 %
-HTML     24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-CSS      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Smarty   4 hrs 8 mins    ████████████████████████░   95.92 %
+CSS      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
