@@ -9,10 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2024 - To: 06 May 2024
+From: 30 April 2024 - To: 07 May 2024
 
-Vue.js       4 hrs 30 mins   ████████████████████████▒   97.23 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Vue.js           4 hrs 30 mins   ███████████████████████▓░   95.20 %
+JavaScript       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Blade Template   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
