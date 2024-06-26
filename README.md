@@ -9,10 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
-PHP              31 mins         ███████████████████░░░░░░   75.35 %
-Blade Template   10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+PHP              31 mins         ███████████████▓░░░░░░░░░   62.51 %
+Blade Template   10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Smarty           8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
 ```
 
 <!--END_SECTION:waka-->
