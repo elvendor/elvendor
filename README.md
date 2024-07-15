@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2024 - To: 13 July 2024
+From: 07 July 2024 - To: 14 July 2024
 
-Image (svg)   0 secs          █████████████████████████   100.00 %
+JavaScript       25 mins         ██████████████░░░░░░░░░░░   55.45 %
+JSON             14 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+Blade Template   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
