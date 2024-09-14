@@ -9,12 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Other            32 mins         ██████████████▓░░░░░░░░░░   58.38 %
-JSON             10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-Blade Template   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-PHP              4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Other   32 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
