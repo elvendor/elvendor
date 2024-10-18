@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2024 - To: 16 October 2024
+From: 10 October 2024 - To: 17 October 2024
 
-PHP          6 hrs 24 mins   ████████████████████████▒   97.63 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+PHP          5 hrs 36 mins   ████████████████████████▒   97.36 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
