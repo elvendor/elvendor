@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 06 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
-Vue.js       1 hr 46 mins    ██████████████████████▓░░   90.20 %
-JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-PHP          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
